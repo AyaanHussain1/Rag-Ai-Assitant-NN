@@ -1,0 +1,1132 @@
+{
+    "chunks": [
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 0.0,
+            "end": 2.0,
+            "text": " Dear students, welcome to Gate Smashers."
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 2.0,
+            "end": 4.0,
+            "text": " We are going to start with today's video."
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 4.0,
+            "end": 6.0,
+            "text": " Deep learning."
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 6.0,
+            "end": 8.0,
+            "text": " The first thing that comes to mind is"
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 8.0,
+            "end": 10.0,
+            "text": " what is the syllabus of deep learning?"
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 10.0,
+            "end": 12.0,
+            "text": " And how has our journey evolved"
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 12.0,
+            "end": 14.0,
+            "text": " till deep learning?"
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 14.0,
+            "end": 16.0,
+            "text": " So, guys, first of all, let me tell you"
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 16.0,
+            "end": 18.0,
+            "text": " that our story started"
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 18.0,
+            "end": 20.0,
+            "text": " in Artificial Intelligence."
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 20.0,
+            "end": 22.0,
+            "text": " In which we talked about"
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 22.0,
+            "end": 24.0,
+            "text": " making an intelligent system."
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 24.0,
+            "end": 26.0,
+            "text": " A machine can think like a human."
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 26.0,
+            "end": 28.0,
+            "text": " Like an expert system."
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 28.0,
+            "end": 30.0,
+            "text": " This is robotics."
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 30.0,
+            "end": 32.0,
+            "text": " We started the story from here."
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 32.0,
+            "end": 34.0,
+            "text": " This is the biggest term."
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 34.0,
+            "end": 36.0,
+            "text": " You can call it an umbrella term."
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 36.0,
+            "end": 38.0,
+            "text": " Like a company."
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 38.0,
+            "end": 40.0,
+            "text": " Like Toyota."
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 40.0,
+            "end": 42.0,
+            "text": " You can call it artificial intelligence."
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 42.0,
+            "end": 44.0,
+            "text": " After that, it has a department."
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 44.0,
+            "end": 46.0,
+            "text": " That is machine learning."
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 46.0,
+            "end": 48.0,
+            "text": " So, basically,"
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 48.0,
+            "end": 50.0,
+            "text": " what happened in machine learning?"
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 50.0,
+            "end": 52.0,
+            "text": " Feature extraction was invented."
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 52.0,
+            "end": 54.0,
+            "text": " We give rules based."
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 54.0,
+            "end": 56.0,
+            "text": " I mean, I gave rules."
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 56.0,
+            "end": 58.0,
+            "text": " Here, we started"
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 58.0,
+            "end": 60.0,
+            "text": " learning from data."
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 60.0,
+            "end": 62.0,
+            "text": " Then came the concept of deep learning."
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 62.0,
+            "end": 64.0,
+            "text": " Where neural networks"
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 64.0,
+            "end": 66.0,
+            "text": " and complex systems"
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 66.0,
+            "end": 68.0,
+            "text": " can be designed."
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 68.0,
+            "end": 70.0,
+            "text": " How can we solve big problems?"
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 70.0,
+            "end": 72.0,
+            "text": " So, this is the concept of deep learning."
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 72.0,
+            "end": 74.0,
+            "text": " And in deep learning,"
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 74.0,
+            "end": 76.0,
+            "text": " there are multiple technologies."
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 76.0,
+            "end": 78.0,
+            "text": " Multiple tools."
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 78.0,
+            "end": 80.0,
+            "text": " Which come in different forms."
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 80.0,
+            "end": 82.0,
+            "text": " Like CNN, Convolutional Neural Network."
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 82.0,
+            "end": 84.0,
+            "text": " This is specially for image."
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 84.0,
+            "end": 86.0,
+            "text": " Where we have to"
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 86.0,
+            "end": 88.0,
+            "text": " classify the image data."
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 88.0,
+            "end": 90.0,
+            "text": " And we have to"
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 90.0,
+            "end": 92.0,
+            "text": " extract the data parallelly."
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 92.0,
+            "end": 94.0,
+            "text": " Then comes RNN."
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 94.0,
+            "end": 96.0,
+            "text": " Where we work on sequential data."
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 96.0,
+            "end": 98.0,
+            "text": " Where the data is"
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 98.0,
+            "end": 100.0,
+            "text": " related to the previous data."
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 100.0,
+            "end": 102.0,
+            "text": " Like speech."
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 102.0,
+            "end": 104.0,
+            "text": " So, the previous word is related to the previous word."
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 104.0,
+            "end": 106.0,
+            "text": " Then comes transformers."
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 106.0,
+            "end": 108.0,
+            "text": " Very important."
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 108.0,
+            "end": 110.0,
+            "text": " Transformers that we use today."
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 110.0,
+            "end": 112.0,
+            "text": " All the LLM models"
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 112.0,
+            "end": 114.0,
+            "text": " are the LLM transformers."
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 114.0,
+            "end": 116.0,
+            "text": " Where we have long range."
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 116.0,
+            "end": 118.0,
+            "text": " I mean, I have long sequential data."
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 118.0,
+            "end": 120.0,
+            "text": " Parallel processing."
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 120.0,
+            "end": 122.0,
+            "text": " And on that basis,"
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 122.0,
+            "end": 124.0,
+            "text": " the final product is"
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 124.0,
+            "end": 126.0,
+            "text": " Toyota."
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 126.0,
+            "end": 128.0,
+            "text": " So, after doing all this evolution,"
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 128.0,
+            "end": 130.0,
+            "text": " the final Fortuner"
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 130.0,
+            "end": 132.0,
+            "text": " that has come out."
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 132.0,
+            "end": 134.0,
+            "text": " That is LLM model."
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 134.0,
+            "end": 136.0,
+            "text": " LLM is the generator."
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 136.0,
+            "end": 138.0,
+            "text": " Like GPT, Gemini,"
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 138.0,
+            "end": 140.0,
+            "text": " Claude."
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 140.0,
+            "end": 142.0,
+            "text": " So, this is how"
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 142.0,
+            "end": 144.0,
+            "text": " the enhancement has happened."
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 144.0,
+            "end": 146.0,
+            "text": " So, in deep learning,"
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 146.0,
+            "end": 148.0,
+            "text": " you have to take all these things from basics to advance."
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 148.0,
+            "end": 150.0,
+            "text": " So, here first of all,"
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 150.0,
+            "end": 152.0,
+            "text": " I will talk about slivers."
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 152.0,
+            "end": 154.0,
+            "text": " So, in foundation, we have"
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 154.0,
+            "end": 156.0,
+            "text": " the concept of neural network."
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 156.0,
+            "end": 158.0,
+            "text": " What are perceptrons? Single layer, multi layer perceptron."
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 158.0,
+            "end": 160.0,
+            "text": " And then what is the funda of bias weights?"
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 160.0,
+            "end": 162.0,
+            "text": " This is very basic."
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 162.0,
+            "end": 164.0,
+            "text": " You should know this."
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 164.0,
+            "end": 166.0,
+            "text": " Because you can't directly study the concept of neural network."
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 166.0,
+            "end": 168.0,
+            "text": " Until you understand these things."
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 168.0,
+            "end": 170.0,
+            "text": " And apart from this,"
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 170.0,
+            "end": 172.0,
+            "text": " if I tell you a little thing,"
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 172.0,
+            "end": 174.0,
+            "text": " in mathematics, if I say basic of linear algebra,"
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 174.0,
+            "end": 176.0,
+            "text": " or say probability,"
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 176.0,
+            "end": 178.0,
+            "text": " or say stats,"
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 178.0,
+            "end": 180.0,
+            "text": " or even say python,"
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 180.0,
+            "end": 182.0,
+            "text": " then you should know these things."
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 182.0,
+            "end": 184.0,
+            "text": " After that, you do a little deep diving"
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 184.0,
+            "end": 186.0,
+            "text": " in deep learning."
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 186.0,
+            "end": 188.0,
+            "text": " So, you will be able to do deep diving only when you have done the basics."
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 188.0,
+            "end": 190.0,
+            "text": " If you have ever seen a video on deep diving,"
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 190.0,
+            "end": 192.0,
+            "text": " then what happens in deep diving?"
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 192.0,
+            "end": 194.0,
+            "text": " We go under the sea."
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 194.0,
+            "end": 196.0,
+            "text": " So, it's not like you jump straight and reach the bottom."
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 196.0,
+            "end": 198.0,
+            "text": " You put all the equipment,"
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 198.0,
+            "end": 200.0,
+            "text": " and then you go."
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 200.0,
+            "end": 202.0,
+            "text": " You go with the trainer."
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 202.0,
+            "end": 204.0,
+            "text": " So, I am telling you the same thing."
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 204.0,
+            "end": 206.0,
+            "text": " So, in college, university, exam, interview,"
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 206.0,
+            "end": 208.0,
+            "text": " wherever you are asked,"
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 208.0,
+            "end": 210.0,
+            "text": " this syllabus will help you a lot."
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 210.0,
+            "end": 212.0,
+            "text": " So, we will cover all the topics one by one."
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 212.0,
+            "end": 214.0,
+            "text": " So, activation function, loss function,"
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 214.0,
+            "end": 216.0,
+            "text": " then comes in optimization."
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 216.0,
+            "end": 218.0,
+            "text": " How to optimize the output that is coming."
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 218.0,
+            "end": 220.0,
+            "text": " So, here gradient is decent,"
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 220.0,
+            "end": 222.0,
+            "text": " Adam is there, overfitting is the concept."
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 222.0,
+            "end": 224.0,
+            "text": " We have to learn all these things here."
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 224.0,
+            "end": 226.0,
+            "text": " After that,"
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 226.0,
+            "end": 228.0,
+            "text": " we have the CNN funda,"
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 228.0,
+            "end": 230.0,
+            "text": " you should know the model of CNN."
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 230.0,
+            "end": 232.0,
+            "text": " RNN model, and in this,"
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 232.0,
+            "end": 234.0,
+            "text": " you should know the concept of long short term memory."
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 234.0,
+            "end": 236.0,
+            "text": " LSTM, then comes the funda of"
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 236.0,
+            "end": 238.0,
+            "text": " transformers, that is modern AI."
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 238.0,
+            "end": 240.0,
+            "text": " Where attention mechanism"
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 240.0,
+            "end": 242.0,
+            "text": " is very important."
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 242.0,
+            "end": 244.0,
+            "text": " Then, the architecture of which is"
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 244.0,
+            "end": 246.0,
+            "text": " parallel processing,"
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 246.0,
+            "end": 248.0,
+            "text": " that should be understood."
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 248.0,
+            "end": 250.0,
+            "text": " Then, we have the models,"
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 250.0,
+            "end": 252.0,
+            "text": " GPT, BERT, fine tuning,"
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 252.0,
+            "end": 254.0,
+            "text": " all these things should be done one by one."
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 254.0,
+            "end": 256.0,
+            "text": " So, this is linked,"
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 256.0,
+            "end": 258.0,
+            "text": " you will reach the advanced level only if you start from basics."
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 258.0,
+            "end": 260.0,
+            "text": " And in the last, we have"
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 260.0,
+            "end": 262.0,
+            "text": " GAN, what is generator, what is discriminator,"
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 262.0,
+            "end": 264.0,
+            "text": " adversarial losses,"
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 264.0,
+            "end": 266.0,
+            "text": " encoder, decoder, latent space,"
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 266.0,
+            "end": 268.0,
+            "text": " and even object detection, YOLO."
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 268.0,
+            "end": 270.0,
+            "text": " If you are given a picture,"
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 270.0,
+            "end": 272.0,
+            "text": " you have to detect the objects,"
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 272.0,
+            "end": 274.0,
+            "text": " that which is the car, which is the person, which is the animal,"
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 274.0,
+            "end": 276.0,
+            "text": " and where is its location in that picture,"
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 276.0,
+            "end": 278.0,
+            "text": " you have to find all these things."
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 278.0,
+            "end": 280.0,
+            "text": " So, in real life application,"
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 280.0,
+            "end": 282.0,
+            "text": " this is being used in today's time."
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 282.0,
+            "end": 284.0,
+            "text": " Any application related to medical,"
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 284.0,
+            "end": 286.0,
+            "text": " any application,"
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 286.0,
+            "end": 288.0,
+            "text": " everywhere, it is the same."
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 288.0,
+            "end": 290.0,
+            "text": " So, you have to do this very well."
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 290.0,
+            "end": 292.0,
+            "text": " In practical skill, if I talk about the framework,"
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 292.0,
+            "end": 294.0,
+            "text": " then, TensorFlow, PyTorch,"
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 294.0,
+            "end": 296.0,
+            "text": " Keras, and in implementation,"
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 296.0,
+            "end": 298.0,
+            "text": " we will implement all these"
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 298.0,
+            "end": 300.0,
+            "text": " with basic problem."
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 300.0,
+            "end": 302.0,
+            "text": " And there are some projects, which you can do"
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 302.0,
+            "end": 304.0,
+            "text": " together. But, I will again"
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 304.0,
+            "end": 306.0,
+            "text": " tell you, don't come here directly."
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 306.0,
+            "end": 308.0,
+            "text": " Even don't come here directly."
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 308.0,
+            "end": 310.0,
+            "text": " Whenever you do deep learning,"
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 310.0,
+            "end": 312.0,
+            "text": " then, guys, start with the basics."
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 312.0,
+            "end": 314.0,
+            "text": " I am telling you again and again,"
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 314.0,
+            "end": 316.0,
+            "text": " because if you really want to"
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 316.0,
+            "end": 318.0,
+            "text": " understand it in deep,"
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 318.0,
+            "end": 320.0,
+            "text": " then this is the only way."
+        },
+        {
+            "numbers": "01 ",
+            "Title": " Deep Learning",
+            "start": 320.0,
+            "end": 322.0,
+            "text": " Thank you."
+        }
+    ],
+    "text": " Dear students, welcome to Gate Smashers. We are going to start with today's video. Deep learning. The first thing that comes to mind is what is the syllabus of deep learning? And how has our journey evolved till deep learning? So, guys, first of all, let me tell you that our story started in Artificial Intelligence. In which we talked about making an intelligent system. A machine can think like a human. Like an expert system. This is robotics. We started the story from here. This is the biggest term. You can call it an umbrella term. Like a company. Like Toyota. You can call it artificial intelligence. After that, it has a department. That is machine learning. So, basically, what happened in machine learning? Feature extraction was invented. We give rules based. I mean, I gave rules. Here, we started learning from data. Then came the concept of deep learning. Where neural networks and complex systems can be designed. How can we solve big problems? So, this is the concept of deep learning. And in deep learning, there are multiple technologies. Multiple tools. Which come in different forms. Like CNN, Convolutional Neural Network. This is specially for image. Where we have to classify the image data. And we have to extract the data parallelly. Then comes RNN. Where we work on sequential data. Where the data is related to the previous data. Like speech. So, the previous word is related to the previous word. Then comes transformers. Very important. Transformers that we use today. All the LLM models are the LLM transformers. Where we have long range. I mean, I have long sequential data. Parallel processing. And on that basis, the final product is Toyota. So, after doing all this evolution, the final Fortuner that has come out. That is LLM model. LLM is the generator. Like GPT, Gemini, Claude. So, this is how the enhancement has happened. So, in deep learning, you have to take all these things from basics to advance. So, here first of all, I will talk about slivers. So, in foundation, we have the concept of neural network. What are perceptrons? Single layer, multi layer perceptron. And then what is the funda of bias weights? This is very basic. You should know this. Because you can't directly study the concept of neural network. Until you understand these things. And apart from this, if I tell you a little thing, in mathematics, if I say basic of linear algebra, or say probability, or say stats, or even say python, then you should know these things. After that, you do a little deep diving in deep learning. So, you will be able to do deep diving only when you have done the basics. If you have ever seen a video on deep diving, then what happens in deep diving? We go under the sea. So, it's not like you jump straight and reach the bottom. You put all the equipment, and then you go. You go with the trainer. So, I am telling you the same thing. So, in college, university, exam, interview, wherever you are asked, this syllabus will help you a lot. So, we will cover all the topics one by one. So, activation function, loss function, then comes in optimization. How to optimize the output that is coming. So, here gradient is decent, Adam is there, overfitting is the concept. We have to learn all these things here. After that, we have the CNN funda, you should know the model of CNN. RNN model, and in this, you should know the concept of long short term memory. LSTM, then comes the funda of transformers, that is modern AI. Where attention mechanism is very important. Then, the architecture of which is parallel processing, that should be understood. Then, we have the models, GPT, BERT, fine tuning, all these things should be done one by one. So, this is linked, you will reach the advanced level only if you start from basics. And in the last, we have GAN, what is generator, what is discriminator, adversarial losses, encoder, decoder, latent space, and even object detection, YOLO. If you are given a picture, you have to detect the objects, that which is the car, which is the person, which is the animal, and where is its location in that picture, you have to find all these things. So, in real life application, this is being used in today's time. Any application related to medical, any application, everywhere, it is the same. So, you have to do this very well. In practical skill, if I talk about the framework, then, TensorFlow, PyTorch, Keras, and in implementation, we will implement all these with basic problem. And there are some projects, which you can do together. But, I will again tell you, don't come here directly. Even don't come here directly. Whenever you do deep learning, then, guys, start with the basics. I am telling you again and again, because if you really want to understand it in deep, then this is the only way. Thank you."
+}

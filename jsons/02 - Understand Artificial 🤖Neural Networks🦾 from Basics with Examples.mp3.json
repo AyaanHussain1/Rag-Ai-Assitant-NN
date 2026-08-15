@@ -1,0 +1,3225 @@
+{
+    "chunks": [
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 0.0,
+            "end": 2.0,
+            "text": " Dear students, welcome to GATE SMASHERS"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 2.0,
+            "end": 4.0,
+            "text": " In today's video, I am going to explain"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 4.0,
+            "end": 8.0,
+            "text": " How does the Artificial Neural Network's architecture works"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 8.0,
+            "end": 10.0,
+            "text": " With the real life example, I will explain this whole thing"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 10.0,
+            "end": 14.0,
+            "text": " So that you can learn everything from the basics"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 14.0,
+            "end": 16.0,
+            "text": " And then reach the advanced level"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 16.0,
+            "end": 18.0,
+            "text": " If I talk about the advanced level"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 18.0,
+            "end": 21.0,
+            "text": " In today's time, we talk about LLMs"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 21.0,
+            "end": 24.0,
+            "text": " LLMs means Large Language Models"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 24.0,
+            "end": 26.0,
+            "text": " Like you must have heard about LAMA"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 26.0,
+            "end": 28.0,
+            "text": " META has just launched LAMA 3"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 28.0,
+            "end": 30.0,
+            "text": " Or you must have heard about CHAAT GPT"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 30.0,
+            "end": 32.0,
+            "text": " Or you must have heard about BIRD"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 32.0,
+            "end": 36.0,
+            "text": " All these projects are of a very high level"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 36.0,
+            "end": 38.0,
+            "text": " Where all these things we talk about"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 38.0,
+            "end": 42.0,
+            "text": " This is the basic block of the Artificial Neural Network"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 42.0,
+            "end": 44.0,
+            "text": " Assume that this is the nursery class"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 44.0,
+            "end": 47.0,
+            "text": " And today we are talking about the PhD"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 47.0,
+            "end": 49.0,
+            "text": " But it is not a direct PhD"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 49.0,
+            "end": 51.0,
+            "text": " We have started from the nursery"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 51.0,
+            "end": 54.0,
+            "text": " Then we have moved to the first class, second class and so on"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 54.0,
+            "end": 57.0,
+            "text": " So first you have to study all these things from the basics"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 57.0,
+            "end": 60.0,
+            "text": " Because all these LLMs, models that we talk about"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 60.0,
+            "end": 62.0,
+            "text": " In today's time or in the future"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 62.0,
+            "end": 64.0,
+            "text": " The AI that we talk about"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 64.0,
+            "end": 66.0,
+            "text": " Their start is from here"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 66.0,
+            "end": 69.0,
+            "text": " So that's why you have to study all the components"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 69.0,
+            "end": 71.0,
+            "text": " From the basics"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 71.0,
+            "end": 74.0,
+            "text": " If you study all the things by relating them with examples"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 74.0,
+            "end": 76.0,
+            "text": " Then you will understand very well"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 76.0,
+            "end": 79.0,
+            "text": " So see Artificial Neural Network ANN"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 79.0,
+            "end": 81.0,
+            "text": " What is its purpose"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 81.0,
+            "end": 84.0,
+            "text": " How does our human brain work"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 84.0,
+            "end": 86.0,
+            "text": " We have tried to mimic it"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 86.0,
+            "end": 89.0,
+            "text": " We have tried to make a copy of it"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 89.0,
+            "end": 92.0,
+            "text": " The way our brain calculates things"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 92.0,
+            "end": 95.0,
+            "text": " Understands things and then generates output"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 95.0,
+            "end": 98.0,
+            "text": " In the same way we want to make an Artificial Neural Network"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 98.0,
+            "end": 103.0,
+            "text": " So that we give input and we get a relevant output"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 103.0,
+            "end": 106.0,
+            "text": " Now the ANN, the Artificial Neural Network"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 106.0,
+            "end": 109.0,
+            "text": " What are the basic components in it"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 109.0,
+            "end": 111.0,
+            "text": " So here first of all neurons come"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 111.0,
+            "end": 113.0,
+            "text": " Multiple layers come"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 113.0,
+            "end": 115.0,
+            "text": " Connections, activation function"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 115.0,
+            "end": 118.0,
+            "text": " Now the most basic unit here is"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 118.0,
+            "end": 120.0,
+            "text": " Neuron or which we also call nodes"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 120.0,
+            "end": 122.0,
+            "text": " So these neurons"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 122.0,
+            "end": 125.0,
+            "text": " You can understand it basically like this"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 125.0,
+            "end": 127.0,
+            "text": " That when is this data storage"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 127.0,
+            "end": 129.0,
+            "text": " In a way, what is in it"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 129.0,
+            "end": 131.0,
+            "text": " Some values, some data is stored"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 131.0,
+            "end": 133.0,
+            "text": " Like I have here 0.2"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 133.0,
+            "end": 134.0,
+            "text": " 2"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 134.0,
+            "end": 137.0,
+            "text": " Any value, any number is stored"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 137.0,
+            "end": 140.0,
+            "text": " So you can consider a neuron in a way"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 140.0,
+            "end": 143.0,
+            "text": " Where some value is stored"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 143.0,
+            "end": 145.0,
+            "text": " What are layers, there are multiple layers"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 145.0,
+            "end": 147.0,
+            "text": " I will explain things one by one"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 147.0,
+            "end": 148.0,
+            "text": " There is an input layer"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 148.0,
+            "end": 150.0,
+            "text": " First of all we have an input layer"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 150.0,
+            "end": 152.0,
+            "text": " Where we give input"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 152.0,
+            "end": 154.0,
+            "text": " Then we have multiple hidden layers"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 154.0,
+            "end": 157.0,
+            "text": " Which come in the work of calculations"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 157.0,
+            "end": 159.0,
+            "text": " Which calculate multiple things"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 159.0,
+            "end": 162.0,
+            "text": " Because at the end, all the mathematics is here"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 162.0,
+            "end": 166.0,
+            "text": " Everything we have to represent in values"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 166.0,
+            "end": 168.0,
+            "text": " Then we have to do calculations"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 168.0,
+            "end": 170.0,
+            "text": " Finally what I have to generate"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 170.0,
+            "end": 172.0,
+            "text": " I have to generate an output"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 172.0,
+            "end": 174.0,
+            "text": " Connections, now these multiple layers"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 174.0,
+            "end": 176.0,
+            "text": " Are connected to each other"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 176.0,
+            "end": 179.0,
+            "text": " Every layer, every edge connected"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 179.0,
+            "end": 182.0,
+            "text": " Every edge is associated with some weight"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 182.0,
+            "end": 184.0,
+            "text": " Some bias value"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 184.0,
+            "end": 187.0,
+            "text": " Which is actually a very strong connection"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 187.0,
+            "end": 189.0,
+            "text": " Which next value to choose"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 189.0,
+            "end": 192.0,
+            "text": " Based on the weight, based on the bias"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 192.0,
+            "end": 194.0,
+            "text": " Those things are selected"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 194.0,
+            "end": 196.0,
+            "text": " Now you will understand from the example"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 196.0,
+            "end": 197.0,
+            "text": " Activation function"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 197.0,
+            "end": 199.0,
+            "text": " Now what happens to us"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 199.0,
+            "end": 202.0,
+            "text": " The output is coming from non-linear"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 202.0,
+            "end": 204.0,
+            "text": " Means values are coming in the output"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 204.0,
+            "end": 207.0,
+            "text": " One value came 10, one came 20, one came 1000"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 207.0,
+            "end": 209.0,
+            "text": " Now I have to do this non-linear linearly"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 209.0,
+            "end": 212.0,
+            "text": " Means in a way I have to bring it in 0 and 1"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 212.0,
+            "end": 214.0,
+            "text": " Means values are coming separately"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 214.0,
+            "end": 218.0,
+            "text": " But I want my output to come only in the range of 0 and 1"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 218.0,
+            "end": 220.0,
+            "text": " Non-linear values should not come"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 220.0,
+            "end": 223.0,
+            "text": " So I will use some activation function"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 223.0,
+            "end": 226.0,
+            "text": " I will restrict my values in this"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 226.0,
+            "end": 228.0,
+            "text": " As an example, I will explain to you"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 228.0,
+            "end": 231.0,
+            "text": " Like I take a small example"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 231.0,
+            "end": 233.0,
+            "text": " I was teaching my daughter"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 233.0,
+            "end": 235.0,
+            "text": " So do you know what was there in it"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 235.0,
+            "end": 236.0,
+            "text": " Like numbers in the starting"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 236.0,
+            "end": 238.0,
+            "text": " How do we get them in the nursery class"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 238.0,
+            "end": 240.0,
+            "text": " Like if we have to read 4"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 240.0,
+            "end": 241.0,
+            "text": " So how do we do 4"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 241.0,
+            "end": 243.0,
+            "text": " First of all, if you have to draw 4"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 243.0,
+            "end": 244.0,
+            "text": " Then straight line"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 244.0,
+            "end": 246.0,
+            "text": " Then after that a sleeping line"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 246.0,
+            "end": 248.0,
+            "text": " Then after that a straight line"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 248.0,
+            "end": 249.0,
+            "text": " So what happens in this way"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 249.0,
+            "end": 251.0,
+            "text": " Means the big component"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 251.0,
+            "end": 253.0,
+            "text": " It is broken into small components"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 253.0,
+            "end": 255.0,
+            "text": " So like I give input here"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 255.0,
+            "end": 256.0,
+            "text": " So I gave input"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 256.0,
+            "end": 257.0,
+            "text": " What do you do first"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 257.0,
+            "end": 260.0,
+            "text": " My neural network has to be trained first"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 260.0,
+            "end": 261.0,
+            "text": " When I made the architecture"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 261.0,
+            "end": 265.0,
+            "text": " Now I will train it by giving a lot of data"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 265.0,
+            "end": 267.0,
+            "text": " Like we train a small child"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 267.0,
+            "end": 268.0,
+            "text": " We teach him ABC"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 268.0,
+            "end": 270.0,
+            "text": " We teach him 1, 2, 3"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 270.0,
+            "end": 271.0,
+            "text": " So 1, 2, 3 is not like this"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 271.0,
+            "end": 274.0,
+            "text": " It breaks the picture and learns"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 274.0,
+            "end": 276.0,
+            "text": " That brother has to draw like this"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 276.0,
+            "end": 277.0,
+            "text": " Or have to draw B"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 277.0,
+            "end": 278.0,
+            "text": " So first straight line"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 278.0,
+            "end": 280.0,
+            "text": " Then a loop is made like this"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 280.0,
+            "end": 281.0,
+            "text": " Then a loop is made"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 281.0,
+            "end": 282.0,
+            "text": " So in this way"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 282.0,
+            "end": 284.0,
+            "text": " The teacher explains to them"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 284.0,
+            "end": 285.0,
+            "text": " So I also felt that"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 285.0,
+            "end": 288.0,
+            "text": " Yes, in this way things can be understood very well"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 288.0,
+            "end": 289.0,
+            "text": " Because our brain"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 289.0,
+            "end": 291.0,
+            "text": " Our small child is also learning"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 291.0,
+            "end": 292.0,
+            "text": " So you understand like this"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 292.0,
+            "end": 295.0,
+            "text": " This machine is also training"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 295.0,
+            "end": 297.0,
+            "text": " First it is trained by giving data"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 297.0,
+            "end": 299.0,
+            "text": " By giving data on multiple parameters"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 299.0,
+            "end": 301.0,
+            "text": " It is trained first"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 301.0,
+            "end": 302.0,
+            "text": " So here this training is going on"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 302.0,
+            "end": 303.0,
+            "text": " That in this way a line is put"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 303.0,
+            "end": 305.0,
+            "text": " So these hidden layers"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 305.0,
+            "end": 306.0,
+            "text": " In these hidden layers"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 306.0,
+            "end": 309.0,
+            "text": " All these values are stored in one way"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 309.0,
+            "end": 312.0,
+            "text": " And when we give any value in this way"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 312.0,
+            "end": 314.0,
+            "text": " Like if I made something like this"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 314.0,
+            "end": 316.0,
+            "text": " Or I made something like this"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 316.0,
+            "end": 319.0,
+            "text": " Or if I made it like this with my hand"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 319.0,
+            "end": 321.0,
+            "text": " So my daughter understands"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 321.0,
+            "end": 324.0,
+            "text": " That actually you are talking about 4"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 324.0,
+            "end": 327.0,
+            "text": " Means it relates all the things"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 327.0,
+            "end": 329.0,
+            "text": " The picture that is made in her mind"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 329.0,
+            "end": 331.0,
+            "text": " So that means this input"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 331.0,
+            "end": 333.0,
+            "text": " Which we trained it first"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 333.0,
+            "end": 335.0,
+            "text": " On the basis of that training"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 335.0,
+            "end": 337.0,
+            "text": " It stored some values"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 337.0,
+            "end": 339.0,
+            "text": " Now when I give a new value"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 339.0,
+            "end": 340.0,
+            "text": " When I give a new input"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 340.0,
+            "end": 342.0,
+            "text": " So it activates and checks"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 342.0,
+            "end": 344.0,
+            "text": " With whom is that value matching"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 344.0,
+            "end": 346.0,
+            "text": " So its corresponding output"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 346.0,
+            "end": 348.0,
+            "text": " Which is becoming the best probability"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 348.0,
+            "end": 349.0,
+            "text": " It shows in the output"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 349.0,
+            "end": 351.0,
+            "text": " Means this is a basic flow"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 351.0,
+            "end": 353.0,
+            "text": " How does it actually work"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 353.0,
+            "end": 355.0,
+            "text": " Like as an example"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 355.0,
+            "end": 358.0,
+            "text": " I am taking a small artificial neural network here"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 358.0,
+            "end": 360.0,
+            "text": " Where I am not taking many layers"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 360.0,
+            "end": 362.0,
+            "text": " I have taken a simple input layer"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 362.0,
+            "end": 363.0,
+            "text": " Here I took the output"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 363.0,
+            "end": 365.0,
+            "text": " I did not take any hidden layer in between"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 365.0,
+            "end": 367.0,
+            "text": " Because I am making a simple single layer"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 367.0,
+            "end": 368.0,
+            "text": " Artificial neural network"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 368.0,
+            "end": 370.0,
+            "text": " If I take hidden layer in between"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 370.0,
+            "end": 372.0,
+            "text": " Then a lot of calculation will have to be done"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 372.0,
+            "end": 373.0,
+            "text": " We will do that later on"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 373.0,
+            "end": 375.0,
+            "text": " Now we will take a simple example"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 375.0,
+            "end": 377.0,
+            "text": " Let's say I have an x1 here"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 377.0,
+            "end": 379.0,
+            "text": " And x2 is my input"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 379.0,
+            "end": 380.0,
+            "text": " This is my input layer"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 380.0,
+            "end": 382.0,
+            "text": " This is my input layer"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 382.0,
+            "end": 384.0,
+            "text": " Where I am giving input"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 384.0,
+            "end": 386.0,
+            "text": " And let's say I take x1 and x2"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 386.0,
+            "end": 388.0,
+            "text": " Let's take x1"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 388.0,
+            "end": 393.0,
+            "text": " Let's say total hours a person study"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 393.0,
+            "end": 395.0,
+            "text": " Total hours a person study"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 395.0,
+            "end": 397.0,
+            "text": " And let's take x2"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 397.0,
+            "end": 400.0,
+            "text": " Total hours a person sleep"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 400.0,
+            "end": 403.0,
+            "text": " Total hours a person sleep"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 403.0,
+            "end": 407.0,
+            "text": " Now I am taking some x1 and x2 values like this"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 407.0,
+            "end": 409.0,
+            "text": " And here I have said some weights"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 409.0,
+            "end": 411.0,
+            "text": " The weights in the starting"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 411.0,
+            "end": 414.0,
+            "text": " This bias value is generated randomly"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 414.0,
+            "end": 416.0,
+            "text": " By generating randomly"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 417.0,
+            "end": 419.0,
+            "text": " So like I have to generate output here"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 419.0,
+            "end": 421.0,
+            "text": " So what function for output"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 421.0,
+            "end": 423.0,
+            "text": " We use a simple formula"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 423.0,
+            "end": 425.0,
+            "text": " If I have to calculate the value of y"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 425.0,
+            "end": 426.0,
+            "text": " Output"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 426.0,
+            "end": 427.0,
+            "text": " So how is it generated"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 427.0,
+            "end": 428.0,
+            "text": " The value of x1"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 428.0,
+            "end": 430.0,
+            "text": " Whatever value you have taken of x1"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 430.0,
+            "end": 432.0,
+            "text": " Whatever input value you have taken"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 432.0,
+            "end": 434.0,
+            "text": " You multiply it by weight 1"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 434.0,
+            "end": 436.0,
+            "text": " And then the value of x2"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 436.0,
+            "end": 438.0,
+            "text": " You multiply it by weight 2"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 438.0,
+            "end": 441.0,
+            "text": " And finally a biased value in it"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 441.0,
+            "end": 444.0,
+            "text": " Because you have taken things from your side"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 444.0,
+            "end": 446.0,
+            "text": " You have assumed many values from your side"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 446.0,
+            "end": 449.0,
+            "text": " So what you do in a biased value"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 449.0,
+            "end": 450.0,
+            "text": " Add it"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 450.0,
+            "end": 452.0,
+            "text": " And when this value comes"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 452.0,
+            "end": 453.0,
+            "text": " So what will happen"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 453.0,
+            "end": 454.0,
+            "text": " My output will come"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 454.0,
+            "end": 458.0,
+            "text": " But this output is not given here"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 458.0,
+            "end": 460.0,
+            "text": " We use activation function"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 460.0,
+            "end": 461.0,
+            "text": " So that"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 461.0,
+            "end": 463.0,
+            "text": " Because this output will come"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 463.0,
+            "end": 465.0,
+            "text": " It is possible that one output is coming 10"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 465.0,
+            "end": 466.0,
+            "text": " One output is coming 20"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 466.0,
+            "end": 467.0,
+            "text": " One output is coming 100"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 467.0,
+            "end": 469.0,
+            "text": " So I want my output"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 469.0,
+            "end": 471.0,
+            "text": " To be restricted in 0 and 1"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 471.0,
+            "end": 473.0,
+            "text": " So I can use multiple activation function"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 473.0,
+            "end": 475.0,
+            "text": " Like sigmoid function"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 475.0,
+            "end": 477.0,
+            "text": " Or relu function"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 477.0,
+            "end": 478.0,
+            "text": " Or hyperbolic tangent"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 478.0,
+            "end": 480.0,
+            "text": " Many functions are used"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 480.0,
+            "end": 483.0,
+            "text": " The most used is your sigmoid"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 483.0,
+            "end": 485.0,
+            "text": " So if I use sigmoid function"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 485.0,
+            "end": 487.0,
+            "text": " To calculate the value of y"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 487.0,
+            "end": 488.0,
+            "text": " I do simple"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 488.0,
+            "end": 491.0,
+            "text": " 1 divided by 1 plus e power minus"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 491.0,
+            "end": 493.0,
+            "text": " Whatever value comes here"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 493.0,
+            "end": 494.0,
+            "text": " So what will it do"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 494.0,
+            "end": 495.0,
+            "text": " The output that is coming"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 495.0,
+            "end": 498.0,
+            "text": " That output will show in 0 and 1"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 498.0,
+            "end": 499.0,
+            "text": " Like"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 499.0,
+            "end": 500.0,
+            "text": " What we did here"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 500.0,
+            "end": 501.0,
+            "text": " Initially"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 501.0,
+            "end": 503.0,
+            "text": " We took a lot of data"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 503.0,
+            "end": 504.0,
+            "text": " Like today"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 504.0,
+            "end": 506.0,
+            "text": " Like we talk about LLM"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 506.0,
+            "end": 508.0,
+            "text": " The large models that are being created"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 508.0,
+            "end": 509.0,
+            "text": " Like Lama"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 509.0,
+            "end": 511.0,
+            "text": " Or chat gpt"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 511.0,
+            "end": 512.0,
+            "text": " If I talk about gpt 3"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 512.0,
+            "end": 515.0,
+            "text": " So it is trained on petabytes of data"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 515.0,
+            "end": 517.0,
+            "text": " A lot of huge amount of data"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 517.0,
+            "end": 518.0,
+            "text": " So what I took"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 518.0,
+            "end": 520.0,
+            "text": " A lot of study"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 520.0,
+            "end": 521.0,
+            "text": " And sleep"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 521.0,
+            "end": 523.0,
+            "text": " In this way I took a lot of data"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 523.0,
+            "end": 525.0,
+            "text": " From multiple countries"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 525.0,
+            "end": 526.0,
+            "text": " That if a person"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 526.0,
+            "end": 527.0,
+            "text": " How long does it take"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 527.0,
+            "end": 528.0,
+            "text": " And how much does he sleep"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 528.0,
+            "end": 529.0,
+            "text": " According to that"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 529.0,
+            "end": 530.0,
+            "text": " What values are there"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 530.0,
+            "end": 531.0,
+            "text": " Does it pass in the paper"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 531.0,
+            "end": 532.0,
+            "text": " Or fails"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 532.0,
+            "end": 533.0,
+            "text": " In this way"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 533.0,
+            "end": 535.0,
+            "text": " I took a huge amount of data"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 535.0,
+            "end": 537.0,
+            "text": " And I trained my system"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 537.0,
+            "end": 538.0,
+            "text": " So it is training"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 538.0,
+            "end": 541.0,
+            "text": " Initially I took any value of w1 w2"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 541.0,
+            "end": 542.0,
+            "text": " Randomly"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 542.0,
+            "end": 543.0,
+            "text": " The system took"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 543.0,
+            "end": 544.0,
+            "text": " And took any value of bias"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 544.0,
+            "end": 545.0,
+            "text": " And output came"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 545.0,
+            "end": 546.0,
+            "text": " I saw the output"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 546.0,
+            "end": 548.0,
+            "text": " Because initially I am giving labeled data"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 548.0,
+            "end": 549.0,
+            "text": " That how long"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 549.0,
+            "end": 551.0,
+            "text": " Let's say that 4 hours"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 551.0,
+            "end": 553.0,
+            "text": " Or let's say that he studied for 7 hours"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 553.0,
+            "end": 555.0,
+            "text": " He slept for 7 hours"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 555.0,
+            "end": 556.0,
+            "text": " And what is the output"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 556.0,
+            "end": 557.0,
+            "text": " That it passed"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 557.0,
+            "end": 559.0,
+            "text": " And let's say that it took 2 hours"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 559.0,
+            "end": 561.0,
+            "text": " Slept for 8 hours"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 561.0,
+            "end": 562.0,
+            "text": " And what is the output"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 562.0,
+            "end": 563.0,
+            "text": " That it failed"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 563.0,
+            "end": 564.0,
+            "text": " 0 means fail"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 564.0,
+            "end": 565.0,
+            "text": " And 1 means pass"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 565.0,
+            "end": 566.0,
+            "text": " In this way"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 566.0,
+            "end": 568.0,
+            "text": " We gave a huge amount of data"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 568.0,
+            "end": 570.0,
+            "text": " And we checked the corresponding"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 570.0,
+            "end": 572.0,
+            "text": " That is my output matching"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 572.0,
+            "end": 574.0,
+            "text": " The output that is coming here"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 574.0,
+            "end": 576.0,
+            "text": " Is it matching with my original output"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 576.0,
+            "end": 578.0,
+            "text": " If it is not matching"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 578.0,
+            "end": 579.0,
+            "text": " Because obviously"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 579.0,
+            "end": 580.0,
+            "text": " Matching is not done directly"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 580.0,
+            "end": 582.0,
+            "text": " There will be a lot of loss in between"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 582.0,
+            "end": 583.0,
+            "text": " There will be a lot of values"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 583.0,
+            "end": 585.0,
+            "text": " In which mismatch will also be there"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 585.0,
+            "end": 586.0,
+            "text": " So what will happen on the basis of that"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 586.0,
+            "end": 588.0,
+            "text": " W1 w2"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 588.0,
+            "end": 589.0,
+            "text": " And the values of bias"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 589.0,
+            "end": 591.0,
+            "text": " Will keep on updating"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 591.0,
+            "end": 592.0,
+            "text": " Because the more the loss"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 592.0,
+            "end": 595.0,
+            "text": " The more the values are fluctuating"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 595.0,
+            "end": 596.0,
+            "text": " So we have to"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 596.0,
+            "end": 598.0,
+            "text": " Back propagate it again and again"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 598.0,
+            "end": 600.0,
+            "text": " What does it have to do"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 600.0,
+            "end": 603.0,
+            "text": " It has to make the values more optimal"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 603.0,
+            "end": 604.0,
+            "text": " So that my output"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 604.0,
+            "end": 605.0,
+            "text": " Is correct"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 605.0,
+            "end": 606.0,
+            "text": " So at the initial level"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 606.0,
+            "end": 607.0,
+            "text": " By giving a lot of data"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 607.0,
+            "end": 609.0,
+            "text": " We trained it"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 609.0,
+            "end": 611.0,
+            "text": " And then the values of W1 W2"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 611.0,
+            "end": 612.0,
+            "text": " In this way I did"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 612.0,
+            "end": 614.0,
+            "text": " Updated again and again"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 614.0,
+            "end": 615.0,
+            "text": " So that my loss"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 615.0,
+            "end": 616.0,
+            "text": " Is less"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 616.0,
+            "end": 617.0,
+            "text": " So at one time"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 617.0,
+            "end": 619.0,
+            "text": " Some values came in this way"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 619.0,
+            "end": 621.0,
+            "text": " That W1 came 0.5"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 621.0,
+            "end": 622.0,
+            "text": " At some point of time"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 622.0,
+            "end": 624.0,
+            "text": " W2 came minus 0.3"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 624.0,
+            "end": 626.0,
+            "text": " And B1 came 0.1"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 626.0,
+            "end": 629.0,
+            "text": " So if I have some values like this"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 629.0,
+            "end": 630.0,
+            "text": " Which I trained"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 630.0,
+            "end": 632.0,
+            "text": " Now I give a new data"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 632.0,
+            "end": 634.0,
+            "text": " Let's say I gave a new data"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 634.0,
+            "end": 635.0,
+            "text": " That a person"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 635.0,
+            "end": 637.0,
+            "text": " Studied for 2 hours"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 637.0,
+            "end": 639.0,
+            "text": " And slept for 8 hours"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 639.0,
+            "end": 641.0,
+            "text": " If I calculate in this way"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 641.0,
+            "end": 642.0,
+            "text": " This is new data"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 642.0,
+            "end": 643.0,
+            "text": " So on new data"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 643.0,
+            "end": 645.0,
+            "text": " Now see how the training works"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 645.0,
+            "end": 647.0,
+            "text": " Training is done"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 647.0,
+            "end": 648.0,
+            "text": " Now new data"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 648.0,
+            "end": 649.0,
+            "text": " So on new data"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 649.0,
+            "end": 650.0,
+            "text": " Let's say 2"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 650.0,
+            "end": 652.0,
+            "text": " I gave the value of x2"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 652.0,
+            "end": 653.0,
+            "text": " And W1"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 653.0,
+            "end": 654.0,
+            "text": " What came at this point of time"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 654.0,
+            "end": 655.0,
+            "text": " 0.5 came"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 655.0,
+            "end": 656.0,
+            "text": " Which is trained"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 656.0,
+            "end": 657.0,
+            "text": " As soon as it happens"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 657.0,
+            "end": 658.0,
+            "text": " As soon as it happens"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 658.0,
+            "end": 659.0,
+            "text": " Things"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 659.0,
+            "end": 660.0,
+            "text": " We have been taught since childhood"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 660.0,
+            "end": 662.0,
+            "text": " First we learn things roughly"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 662.0,
+            "end": 663.0,
+            "text": " Then slowly"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 663.0,
+            "end": 665.0,
+            "text": " We keep it fixed"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 665.0,
+            "end": 667.0,
+            "text": " Means my W"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 667.0,
+            "end": 668.0,
+            "text": " My weight"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 668.0,
+            "end": 669.0,
+            "text": " And my bias"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 669.0,
+            "end": 670.0,
+            "text": " What happens in actual"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 670.0,
+            "end": 671.0,
+            "text": " It keeps getting accurate"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 671.0,
+            "end": 672.0,
+            "text": " Time to time"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 672.0,
+            "end": 673.0,
+            "text": " So it gets accurate"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 673.0,
+            "end": 674.0,
+            "text": " Let's say this value came"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 674.0,
+            "end": 675.0,
+            "text": " And what did I do"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 675.0,
+            "end": 677.0,
+            "text": " How many hours does he sleep"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 677.0,
+            "end": 678.0,
+            "text": " Sleep for 8 hours"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 678.0,
+            "end": 679.0,
+            "text": " And corresponding"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 679.0,
+            "end": 680.0,
+            "text": " What is my weight"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 680.0,
+            "end": 681.0,
+            "text": " Point"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 681.0,
+            "end": 682.0,
+            "text": " Minus"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 682.0,
+            "end": 683.0,
+            "text": " 0.3"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 683.0,
+            "end": 684.0,
+            "text": " Fine"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 684.0,
+            "end": 685.0,
+            "text": " And my B1"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 685.0,
+            "end": 686.0,
+            "text": " What is mine"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 686.0,
+            "end": 687.0,
+            "text": " This is my formula"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 687.0,
+            "end": 688.0,
+            "text": " How do we"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 688.0,
+            "end": 689.0,
+            "text": " Calculate the value of y"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 689.0,
+            "end": 690.0,
+            "text": " So let's say"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 690.0,
+            "end": 692.0,
+            "text": " If I calculate the value of y0"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 692.0,
+            "end": 693.0,
+            "text": " So I think this"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 693.0,
+            "end": 694.0,
+            "text": " Around"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 694.0,
+            "end": 695.0,
+            "text": " Minus 1.3 will come"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 695.0,
+            "end": 696.0,
+            "text": " And I"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 696.0,
+            "end": 697.0,
+            "text": " Obviously told earlier"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 697.0,
+            "end": 699.0,
+            "text": " That the output that is coming"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 699.0,
+            "end": 700.0,
+            "text": " Using the activation function"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 700.0,
+            "end": 702.0,
+            "text": " Bring it to 0 and 1"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 702.0,
+            "end": 703.0,
+            "text": " So if I"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 703.0,
+            "end": 704.0,
+            "text": " Put it in this"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 704.0,
+            "end": 705.0,
+            "text": " The value of y is"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 705.0,
+            "end": 706.0,
+            "text": " Minus 1.3"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 706.0,
+            "end": 707.0,
+            "text": " Put it in this"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 707.0,
+            "end": 708.0,
+            "text": " So you solve it"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 708.0,
+            "end": 709.0,
+            "text": " Point"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 709.0,
+            "end": 710.0,
+            "text": " 2"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 710.0,
+            "end": 711.0,
+            "text": " 1 something"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 711.0,
+            "end": 712.0,
+            "text": " In some way"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 712.0,
+            "end": 713.0,
+            "text": " Point 2 will come some value"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 713.0,
+            "end": 714.0,
+            "text": " Means say"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 714.0,
+            "end": 716.0,
+            "text": " If 0 is my fail"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 716.0,
+            "end": 717.0,
+            "text": " 1 is my pass"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 717.0,
+            "end": 719.0,
+            "text": " So what is its probability"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 719.0,
+            "end": 721.0,
+            "text": " It is coming towards a little fail"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 721.0,
+            "end": 722.0,
+            "text": " Means point 2 means"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 722.0,
+            "end": 723.0,
+            "text": " It is coming towards fail"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 723.0,
+            "end": 724.0,
+            "text": " There are chances"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 724.0,
+            "end": 725.0,
+            "text": " Probability is coming"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 725.0,
+            "end": 726.0,
+            "text": " That this can fail"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 726.0,
+            "end": 727.0,
+            "text": " Similarly"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 727.0,
+            "end": 728.0,
+            "text": " If I take some other value"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 728.0,
+            "end": 729.0,
+            "text": " Let's say I take value here"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 729.0,
+            "end": 730.0,
+            "text": " 6"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 730.0,
+            "end": 731.0,
+            "text": " And here value"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 731.0,
+            "end": 732.0,
+            "text": " Take 7"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 732.0,
+            "end": 733.0,
+            "text": " If you solve this"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 733.0,
+            "end": 734.0,
+            "text": " Then value"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 734.0,
+            "end": 735.0,
+            "text": " Around"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 735.0,
+            "end": 736.0,
+            "text": " Point"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 736.0,
+            "end": 737.0,
+            "text": " 7.8"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 737.0,
+            "end": 738.0,
+            "text": " Will come"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 738.0,
+            "end": 739.0,
+            "text": " Means more chances of passing"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 739.0,
+            "end": 741.0,
+            "text": " So you can put an idea"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 741.0,
+            "end": 743.0,
+            "text": " That my weights"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 743.0,
+            "end": 744.0,
+            "text": " Are working accurately"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 744.0,
+            "end": 746.0,
+            "text": " Although they are not fixed"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 746.0,
+            "end": 747.0,
+            "text": " They keep changing"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 747.0,
+            "end": 748.0,
+            "text": " These values"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 748.0,
+            "end": 749.0,
+            "text": " Keep changing"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 749.0,
+            "end": 750.0,
+            "text": " And keep getting accurate"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 750.0,
+            "end": 751.0,
+            "text": " So this is how"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 751.0,
+            "end": 752.0,
+            "text": " We actually work"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 752.0,
+            "end": 753.0,
+            "text": " That"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 753.0,
+            "end": 754.0,
+            "text": " Artificial neural network"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 754.0,
+            "end": 755.0,
+            "text": " How does it work"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 755.0,
+            "end": 757.0,
+            "text": " Now I have not put any hidden layers"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 757.0,
+            "end": 760.0,
+            "text": " Only I have given you a basic overview"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 760.0,
+            "end": 762.0,
+            "text": " What are the components"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 762.0,
+            "end": 763.0,
+            "text": " And how"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 763.0,
+            "end": 765.0,
+            "text": " Like our normal brain"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 765.0,
+            "end": 766.0,
+            "text": " Learns things"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 766.0,
+            "end": 768.0,
+            "text": " Similarly artificial neural network"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 768.0,
+            "end": 770.0,
+            "text": " Learning values"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 770.0,
+            "end": 772.0,
+            "text": " And getting optimized"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 772.0,
+            "end": 773.0,
+            "text": " So here"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 773.0,
+            "end": 774.0,
+            "text": " Don't take out the output"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 774.0,
+            "end": 775.0,
+            "text": " Our basic concern is"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 775.0,
+            "end": 776.0,
+            "text": " Don't take out the output"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 776.0,
+            "end": 778.0,
+            "text": " Our basic concern is"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 778.0,
+            "end": 781.0,
+            "text": " We have to make the output more optimal"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 781.0,
+            "end": 782.0,
+            "text": " Make it more optimal"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 782.0,
+            "end": 783.0,
+            "text": " It will give output"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 783.0,
+            "end": 784.0,
+            "text": " Something or the other"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 784.0,
+            "end": 785.0,
+            "text": " If formula comes"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 785.0,
+            "end": 786.0,
+            "text": " It will give some output"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 786.0,
+            "end": 788.0,
+            "text": " But I have to make that output"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 788.0,
+            "end": 789.0,
+            "text": " More optimal"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 789.0,
+            "end": 790.0,
+            "text": " More accurate"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 790.0,
+            "end": 792.0,
+            "text": " So that its probability"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 792.0,
+            "end": 793.0,
+            "text": " Which is"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 793.0,
+            "end": 795.0,
+            "text": " So that my basic concern"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 795.0,
+            "end": 796.0,
+            "text": " By doing that slowly"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 796.0,
+            "end": 797.0,
+            "text": " We will learn further"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 797.0,
+            "end": 799.0,
+            "text": " How these updates"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 799.0,
+            "end": 800.0,
+            "text": " How these weights"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 800.0,
+            "end": 801.0,
+            "text": " Or how the bias is removed"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 801.0,
+            "end": 802.0,
+            "text": " How is it updated"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 802.0,
+            "end": 804.0,
+            "text": " How hidden layers are used"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 804.0,
+            "end": 805.0,
+            "text": " We will learn one by one"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 805.0,
+            "end": 807.0,
+            "text": " But note this"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 807.0,
+            "end": 809.0,
+            "text": " Because this is the basic building block"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 809.0,
+            "end": 810.0,
+            "text": " Of neural network"
+        },
+        {
+            "numbers": "02 ",
+            "Title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 810.0,
+            "end": 811.0,
+            "text": " Thank you"
+        }
+    ],
+    "text": " Dear students, welcome to GATE SMASHERS In today's video, I am going to explain How does the Artificial Neural Network's architecture works With the real life example, I will explain this whole thing So that you can learn everything from the basics And then reach the advanced level If I talk about the advanced level In today's time, we talk about LLMs LLMs means Large Language Models Like you must have heard about LAMA META has just launched LAMA 3 Or you must have heard about CHAAT GPT Or you must have heard about BIRD All these projects are of a very high level Where all these things we talk about This is the basic block of the Artificial Neural Network Assume that this is the nursery class And today we are talking about the PhD But it is not a direct PhD We have started from the nursery Then we have moved to the first class, second class and so on So first you have to study all these things from the basics Because all these LLMs, models that we talk about In today's time or in the future The AI that we talk about Their start is from here So that's why you have to study all the components From the basics If you study all the things by relating them with examples Then you will understand very well So see Artificial Neural Network ANN What is its purpose How does our human brain work We have tried to mimic it We have tried to make a copy of it The way our brain calculates things Understands things and then generates output In the same way we want to make an Artificial Neural Network So that we give input and we get a relevant output Now the ANN, the Artificial Neural Network What are the basic components in it So here first of all neurons come Multiple layers come Connections, activation function Now the most basic unit here is Neuron or which we also call nodes So these neurons You can understand it basically like this That when is this data storage In a way, what is in it Some values, some data is stored Like I have here 0.2 2 Any value, any number is stored So you can consider a neuron in a way Where some value is stored What are layers, there are multiple layers I will explain things one by one There is an input layer First of all we have an input layer Where we give input Then we have multiple hidden layers Which come in the work of calculations Which calculate multiple things Because at the end, all the mathematics is here Everything we have to represent in values Then we have to do calculations Finally what I have to generate I have to generate an output Connections, now these multiple layers Are connected to each other Every layer, every edge connected Every edge is associated with some weight Some bias value Which is actually a very strong connection Which next value to choose Based on the weight, based on the bias Those things are selected Now you will understand from the example Activation function Now what happens to us The output is coming from non-linear Means values are coming in the output One value came 10, one came 20, one came 1000 Now I have to do this non-linear linearly Means in a way I have to bring it in 0 and 1 Means values are coming separately But I want my output to come only in the range of 0 and 1 Non-linear values should not come So I will use some activation function I will restrict my values in this As an example, I will explain to you Like I take a small example I was teaching my daughter So do you know what was there in it Like numbers in the starting How do we get them in the nursery class Like if we have to read 4 So how do we do 4 First of all, if you have to draw 4 Then straight line Then after that a sleeping line Then after that a straight line So what happens in this way Means the big component It is broken into small components So like I give input here So I gave input What do you do first My neural network has to be trained first When I made the architecture Now I will train it by giving a lot of data Like we train a small child We teach him ABC We teach him 1, 2, 3 So 1, 2, 3 is not like this It breaks the picture and learns That brother has to draw like this Or have to draw B So first straight line Then a loop is made like this Then a loop is made So in this way The teacher explains to them So I also felt that Yes, in this way things can be understood very well Because our brain Our small child is also learning So you understand like this This machine is also training First it is trained by giving data By giving data on multiple parameters It is trained first So here this training is going on That in this way a line is put So these hidden layers In these hidden layers All these values are stored in one way And when we give any value in this way Like if I made something like this Or I made something like this Or if I made it like this with my hand So my daughter understands That actually you are talking about 4 Means it relates all the things The picture that is made in her mind So that means this input Which we trained it first On the basis of that training It stored some values Now when I give a new value When I give a new input So it activates and checks With whom is that value matching So its corresponding output Which is becoming the best probability It shows in the output Means this is a basic flow How does it actually work Like as an example I am taking a small artificial neural network here Where I am not taking many layers I have taken a simple input layer Here I took the output I did not take any hidden layer in between Because I am making a simple single layer Artificial neural network If I take hidden layer in between Then a lot of calculation will have to be done We will do that later on Now we will take a simple example Let's say I have an x1 here And x2 is my input This is my input layer This is my input layer Where I am giving input And let's say I take x1 and x2 Let's take x1 Let's say total hours a person study Total hours a person study And let's take x2 Total hours a person sleep Total hours a person sleep Now I am taking some x1 and x2 values like this And here I have said some weights The weights in the starting This bias value is generated randomly By generating randomly So like I have to generate output here So what function for output We use a simple formula If I have to calculate the value of y Output So how is it generated The value of x1 Whatever value you have taken of x1 Whatever input value you have taken You multiply it by weight 1 And then the value of x2 You multiply it by weight 2 And finally a biased value in it Because you have taken things from your side You have assumed many values from your side So what you do in a biased value Add it And when this value comes So what will happen My output will come But this output is not given here We use activation function So that Because this output will come It is possible that one output is coming 10 One output is coming 20 One output is coming 100 So I want my output To be restricted in 0 and 1 So I can use multiple activation function Like sigmoid function Or relu function Or hyperbolic tangent Many functions are used The most used is your sigmoid So if I use sigmoid function To calculate the value of y I do simple 1 divided by 1 plus e power minus Whatever value comes here So what will it do The output that is coming That output will show in 0 and 1 Like What we did here Initially We took a lot of data Like today Like we talk about LLM The large models that are being created Like Lama Or chat gpt If I talk about gpt 3 So it is trained on petabytes of data A lot of huge amount of data So what I took A lot of study And sleep In this way I took a lot of data From multiple countries That if a person How long does it take And how much does he sleep According to that What values are there Does it pass in the paper Or fails In this way I took a huge amount of data And I trained my system So it is training Initially I took any value of w1 w2 Randomly The system took And took any value of bias And output came I saw the output Because initially I am giving labeled data That how long Let's say that 4 hours Or let's say that he studied for 7 hours He slept for 7 hours And what is the output That it passed And let's say that it took 2 hours Slept for 8 hours And what is the output That it failed 0 means fail And 1 means pass In this way We gave a huge amount of data And we checked the corresponding That is my output matching The output that is coming here Is it matching with my original output If it is not matching Because obviously Matching is not done directly There will be a lot of loss in between There will be a lot of values In which mismatch will also be there So what will happen on the basis of that W1 w2 And the values of bias Will keep on updating Because the more the loss The more the values are fluctuating So we have to Back propagate it again and again What does it have to do It has to make the values more optimal So that my output Is correct So at the initial level By giving a lot of data We trained it And then the values of W1 W2 In this way I did Updated again and again So that my loss Is less So at one time Some values came in this way That W1 came 0.5 At some point of time W2 came minus 0.3 And B1 came 0.1 So if I have some values like this Which I trained Now I give a new data Let's say I gave a new data That a person Studied for 2 hours And slept for 8 hours If I calculate in this way This is new data So on new data Now see how the training works Training is done Now new data So on new data Let's say 2 I gave the value of x2 And W1 What came at this point of time 0.5 came Which is trained As soon as it happens As soon as it happens Things We have been taught since childhood First we learn things roughly Then slowly We keep it fixed Means my W My weight And my bias What happens in actual It keeps getting accurate Time to time So it gets accurate Let's say this value came And what did I do How many hours does he sleep Sleep for 8 hours And corresponding What is my weight Point Minus 0.3 Fine And my B1 What is mine This is my formula How do we Calculate the value of y So let's say If I calculate the value of y0 So I think this Around Minus 1.3 will come And I Obviously told earlier That the output that is coming Using the activation function Bring it to 0 and 1 So if I Put it in this The value of y is Minus 1.3 Put it in this So you solve it Point 2 1 something In some way Point 2 will come some value Means say If 0 is my fail 1 is my pass So what is its probability It is coming towards a little fail Means point 2 means It is coming towards fail There are chances Probability is coming That this can fail Similarly If I take some other value Let's say I take value here 6 And here value Take 7 If you solve this Then value Around Point 7.8 Will come Means more chances of passing So you can put an idea That my weights Are working accurately Although they are not fixed They keep changing These values Keep changing And keep getting accurate So this is how We actually work That Artificial neural network How does it work Now I have not put any hidden layers Only I have given you a basic overview What are the components And how Like our normal brain Learns things Similarly artificial neural network Learning values And getting optimized So here Don't take out the output Our basic concern is Don't take out the output Our basic concern is We have to make the output more optimal Make it more optimal It will give output Something or the other If formula comes It will give some output But I have to make that output More optimal More accurate So that its probability Which is So that my basic concern By doing that slowly We will learn further How these updates How these weights Or how the bias is removed How is it updated How hidden layers are used We will learn one by one But note this Because this is the basic building block Of neural network Thank you"
+}

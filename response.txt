@@ -1,0 +1,8 @@
+The **Deep Learning projects** are mentioned in:
+
+**Video 01: “Deep Learning”**  
+**Timestamp:** **05:00 to 05:20**
+
+At this point, the instructor says that there are some projects you can do, but advises not to jump directly into projects—first start with the basics of deep learning to understand it properly.
+
+So, go to **Video 01** and watch from around **5 minutes**.

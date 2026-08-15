@@ -1,0 +1,327 @@
+{
+    "chunks": [
+        {
+            "number": "02 ",
+            "title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 0.0,
+            "end": 26.0,
+            "text": " Dear students, welcome to GATE SMASHERS  In today's video, I am going to explain  How does the Artificial Neural Network's architecture works  With the real life example, I will explain this whole thing  So that you can learn everything from the basics  And then reach the advanced level  If I talk about the advanced level  In today's time, we talk about LLMs  LLMs means Large Language Models  Like you must have heard about LAMA"
+        },
+        {
+            "number": "02 ",
+            "title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 26.0,
+            "end": 51.0,
+            "text": " META has just launched LAMA 3  Or you must have heard about CHAAT GPT  Or you must have heard about BIRD  All these projects are of a very high level  Where all these things we talk about  This is the basic block of the Artificial Neural Network  Assume that this is the nursery class  And today we are talking about the PhD  But it is not a direct PhD  We have started from the nursery"
+        },
+        {
+            "number": "02 ",
+            "title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 51.0,
+            "end": 76.0,
+            "text": " Then we have moved to the first class, second class and so on  So first you have to study all these things from the basics  Because all these LLMs, models that we talk about  In today's time or in the future  The AI that we talk about  Their start is from here  So that's why you have to study all the components  From the basics  If you study all the things by relating them with examples  Then you will understand very well"
+        },
+        {
+            "number": "02 ",
+            "title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 76.0,
+            "end": 106.0,
+            "text": " So see Artificial Neural Network ANN  What is its purpose  How does our human brain work  We have tried to mimic it  We have tried to make a copy of it  The way our brain calculates things  Understands things and then generates output  In the same way we want to make an Artificial Neural Network  So that we give input and we get a relevant output  Now the ANN, the Artificial Neural Network"
+        },
+        {
+            "number": "02 ",
+            "title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 106.0,
+            "end": 129.0,
+            "text": " What are the basic components in it  So here first of all neurons come  Multiple layers come  Connections, activation function  Now the most basic unit here is  Neuron or which we also call nodes  So these neurons  You can understand it basically like this  That when is this data storage  In a way, what is in it"
+        },
+        {
+            "number": "02 ",
+            "title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 129.0,
+            "end": 150.0,
+            "text": " Some values, some data is stored  Like I have here 0.2  2  Any value, any number is stored  So you can consider a neuron in a way  Where some value is stored  What are layers, there are multiple layers  I will explain things one by one  There is an input layer  First of all we have an input layer"
+        },
+        {
+            "number": "02 ",
+            "title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 150.0,
+            "end": 174.0,
+            "text": " Where we give input  Then we have multiple hidden layers  Which come in the work of calculations  Which calculate multiple things  Because at the end, all the mathematics is here  Everything we have to represent in values  Then we have to do calculations  Finally what I have to generate  I have to generate an output  Connections, now these multiple layers"
+        },
+        {
+            "number": "02 ",
+            "title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 174.0,
+            "end": 197.0,
+            "text": " Are connected to each other  Every layer, every edge connected  Every edge is associated with some weight  Some bias value  Which is actually a very strong connection  Which next value to choose  Based on the weight, based on the bias  Those things are selected  Now you will understand from the example  Activation function"
+        },
+        {
+            "number": "02 ",
+            "title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 197.0,
+            "end": 223.0,
+            "text": " Now what happens to us  The output is coming from non-linear  Means values are coming in the output  One value came 10, one came 20, one came 1000  Now I have to do this non-linear linearly  Means in a way I have to bring it in 0 and 1  Means values are coming separately  But I want my output to come only in the range of 0 and 1  Non-linear values should not come  So I will use some activation function"
+        },
+        {
+            "number": "02 ",
+            "title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 223.0,
+            "end": 243.0,
+            "text": " I will restrict my values in this  As an example, I will explain to you  Like I take a small example  I was teaching my daughter  So do you know what was there in it  Like numbers in the starting  How do we get them in the nursery class  Like if we have to read 4  So how do we do 4  First of all, if you have to draw 4"
+        },
+        {
+            "number": "02 ",
+            "title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 243.0,
+            "end": 260.0,
+            "text": " Then straight line  Then after that a sleeping line  Then after that a straight line  So what happens in this way  Means the big component  It is broken into small components  So like I give input here  So I gave input  What do you do first  My neural network has to be trained first"
+        },
+        {
+            "number": "02 ",
+            "title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 260.0,
+            "end": 278.0,
+            "text": " When I made the architecture  Now I will train it by giving a lot of data  Like we train a small child  We teach him ABC  We teach him 1, 2, 3  So 1, 2, 3 is not like this  It breaks the picture and learns  That brother has to draw like this  Or have to draw B  So first straight line"
+        },
+        {
+            "number": "02 ",
+            "title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 278.0,
+            "end": 295.0,
+            "text": " Then a loop is made like this  Then a loop is made  So in this way  The teacher explains to them  So I also felt that  Yes, in this way things can be understood very well  Because our brain  Our small child is also learning  So you understand like this  This machine is also training"
+        },
+        {
+            "number": "02 ",
+            "title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 295.0,
+            "end": 314.0,
+            "text": " First it is trained by giving data  By giving data on multiple parameters  It is trained first  So here this training is going on  That in this way a line is put  So these hidden layers  In these hidden layers  All these values are stored in one way  And when we give any value in this way  Like if I made something like this"
+        },
+        {
+            "number": "02 ",
+            "title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 314.0,
+            "end": 337.0,
+            "text": " Or I made something like this  Or if I made it like this with my hand  So my daughter understands  That actually you are talking about 4  Means it relates all the things  The picture that is made in her mind  So that means this input  Which we trained it first  On the basis of that training  It stored some values"
+        },
+        {
+            "number": "02 ",
+            "title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 337.0,
+            "end": 355.0,
+            "text": " Now when I give a new value  When I give a new input  So it activates and checks  With whom is that value matching  So its corresponding output  Which is becoming the best probability  It shows in the output  Means this is a basic flow  How does it actually work  Like as an example"
+        },
+        {
+            "number": "02 ",
+            "title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 355.0,
+            "end": 373.0,
+            "text": " I am taking a small artificial neural network here  Where I am not taking many layers  I have taken a simple input layer  Here I took the output  I did not take any hidden layer in between  Because I am making a simple single layer  Artificial neural network  If I take hidden layer in between  Then a lot of calculation will have to be done  We will do that later on"
+        },
+        {
+            "number": "02 ",
+            "title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 373.0,
+            "end": 395.0,
+            "text": " Now we will take a simple example  Let's say I have an x1 here  And x2 is my input  This is my input layer  This is my input layer  Where I am giving input  And let's say I take x1 and x2  Let's take x1  Let's say total hours a person study  Total hours a person study"
+        },
+        {
+            "number": "02 ",
+            "title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 395.0,
+            "end": 421.0,
+            "text": " And let's take x2  Total hours a person sleep  Total hours a person sleep  Now I am taking some x1 and x2 values like this  And here I have said some weights  The weights in the starting  This bias value is generated randomly  By generating randomly  So like I have to generate output here  So what function for output"
+        },
+        {
+            "number": "02 ",
+            "title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 421.0,
+            "end": 438.0,
+            "text": " We use a simple formula  If I have to calculate the value of y  Output  So how is it generated  The value of x1  Whatever value you have taken of x1  Whatever input value you have taken  You multiply it by weight 1  And then the value of x2  You multiply it by weight 2"
+        },
+        {
+            "number": "02 ",
+            "title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 438.0,
+            "end": 460.0,
+            "text": " And finally a biased value in it  Because you have taken things from your side  You have assumed many values from your side  So what you do in a biased value  Add it  And when this value comes  So what will happen  My output will come  But this output is not given here  We use activation function"
+        },
+        {
+            "number": "02 ",
+            "title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 460.0,
+            "end": 477.0,
+            "text": " So that  Because this output will come  It is possible that one output is coming 10  One output is coming 20  One output is coming 100  So I want my output  To be restricted in 0 and 1  So I can use multiple activation function  Like sigmoid function  Or relu function"
+        },
+        {
+            "number": "02 ",
+            "title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 477.0,
+            "end": 495.0,
+            "text": " Or hyperbolic tangent  Many functions are used  The most used is your sigmoid  So if I use sigmoid function  To calculate the value of y  I do simple  1 divided by 1 plus e power minus  Whatever value comes here  So what will it do  The output that is coming"
+        },
+        {
+            "number": "02 ",
+            "title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 495.0,
+            "end": 511.0,
+            "text": " That output will show in 0 and 1  Like  What we did here  Initially  We took a lot of data  Like today  Like we talk about LLM  The large models that are being created  Like Lama  Or chat gpt"
+        },
+        {
+            "number": "02 ",
+            "title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 511.0,
+            "end": 527.0,
+            "text": " If I talk about gpt 3  So it is trained on petabytes of data  A lot of huge amount of data  So what I took  A lot of study  And sleep  In this way I took a lot of data  From multiple countries  That if a person  How long does it take"
+        },
+        {
+            "number": "02 ",
+            "title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 527.0,
+            "end": 541.0,
+            "text": " And how much does he sleep  According to that  What values are there  Does it pass in the paper  Or fails  In this way  I took a huge amount of data  And I trained my system  So it is training  Initially I took any value of w1 w2"
+        },
+        {
+            "number": "02 ",
+            "title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 541.0,
+            "end": 555.0,
+            "text": " Randomly  The system took  And took any value of bias  And output came  I saw the output  Because initially I am giving labeled data  That how long  Let's say that 4 hours  Or let's say that he studied for 7 hours  He slept for 7 hours"
+        },
+        {
+            "number": "02 ",
+            "title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 555.0,
+            "end": 568.0,
+            "text": " And what is the output  That it passed  And let's say that it took 2 hours  Slept for 8 hours  And what is the output  That it failed  0 means fail  And 1 means pass  In this way  We gave a huge amount of data"
+        },
+        {
+            "number": "02 ",
+            "title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 568.0,
+            "end": 585.0,
+            "text": " And we checked the corresponding  That is my output matching  The output that is coming here  Is it matching with my original output  If it is not matching  Because obviously  Matching is not done directly  There will be a lot of loss in between  There will be a lot of values  In which mismatch will also be there"
+        },
+        {
+            "number": "02 ",
+            "title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 585.0,
+            "end": 603.0,
+            "text": " So what will happen on the basis of that  W1 w2  And the values of bias  Will keep on updating  Because the more the loss  The more the values are fluctuating  So we have to  Back propagate it again and again  What does it have to do  It has to make the values more optimal"
+        },
+        {
+            "number": "02 ",
+            "title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 603.0,
+            "end": 616.0,
+            "text": " So that my output  Is correct  So at the initial level  By giving a lot of data  We trained it  And then the values of W1 W2  In this way I did  Updated again and again  So that my loss  Is less"
+        },
+        {
+            "number": "02 ",
+            "title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 616.0,
+            "end": 634.0,
+            "text": " So at one time  Some values came in this way  That W1 came 0.5  At some point of time  W2 came minus 0.3  And B1 came 0.1  So if I have some values like this  Which I trained  Now I give a new data  Let's say I gave a new data"
+        },
+        {
+            "number": "02 ",
+            "title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 634.0,
+            "end": 649.0,
+            "text": " That a person  Studied for 2 hours  And slept for 8 hours  If I calculate in this way  This is new data  So on new data  Now see how the training works  Training is done  Now new data  So on new data"
+        },
+        {
+            "number": "02 ",
+            "title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 649.0,
+            "end": 660.0,
+            "text": " Let's say 2  I gave the value of x2  And W1  What came at this point of time  0.5 came  Which is trained  As soon as it happens  As soon as it happens  Things  We have been taught since childhood"
+        },
+        {
+            "number": "02 ",
+            "title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 660.0,
+            "end": 673.0,
+            "text": " First we learn things roughly  Then slowly  We keep it fixed  Means my W  My weight  And my bias  What happens in actual  It keeps getting accurate  Time to time  So it gets accurate"
+        },
+        {
+            "number": "02 ",
+            "title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 673.0,
+            "end": 684.0,
+            "text": " Let's say this value came  And what did I do  How many hours does he sleep  Sleep for 8 hours  And corresponding  What is my weight  Point  Minus  0.3  Fine"
+        },
+        {
+            "number": "02 ",
+            "title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 684.0,
+            "end": 695.0,
+            "text": " And my B1  What is mine  This is my formula  How do we  Calculate the value of y  So let's say  If I calculate the value of y0  So I think this  Around  Minus 1.3 will come"
+        },
+        {
+            "number": "02 ",
+            "title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 695.0,
+            "end": 707.0,
+            "text": " And I  Obviously told earlier  That the output that is coming  Using the activation function  Bring it to 0 and 1  So if I  Put it in this  The value of y is  Minus 1.3  Put it in this"
+        },
+        {
+            "number": "02 ",
+            "title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 707.0,
+            "end": 719.0,
+            "text": " So you solve it  Point  2  1 something  In some way  Point 2 will come some value  Means say  If 0 is my fail  1 is my pass  So what is its probability"
+        },
+        {
+            "number": "02 ",
+            "title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 719.0,
+            "end": 730.0,
+            "text": " It is coming towards a little fail  Means point 2 means  It is coming towards fail  There are chances  Probability is coming  That this can fail  Similarly  If I take some other value  Let's say I take value here  6"
+        },
+        {
+            "number": "02 ",
+            "title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 730.0,
+            "end": 741.0,
+            "text": " And here value  Take 7  If you solve this  Then value  Around  Point  7.8  Will come  Means more chances of passing  So you can put an idea"
+        },
+        {
+            "number": "02 ",
+            "title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 741.0,
+            "end": 753.0,
+            "text": " That my weights  Are working accurately  Although they are not fixed  They keep changing  These values  Keep changing  And keep getting accurate  So this is how  We actually work  That"
+        },
+        {
+            "number": "02 ",
+            "title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 753.0,
+            "end": 770.0,
+            "text": " Artificial neural network  How does it work  Now I have not put any hidden layers  Only I have given you a basic overview  What are the components  And how  Like our normal brain  Learns things  Similarly artificial neural network  Learning values"
+        },
+        {
+            "number": "02 ",
+            "title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 770.0,
+            "end": 784.0,
+            "text": " And getting optimized  So here  Don't take out the output  Our basic concern is  Don't take out the output  Our basic concern is  We have to make the output more optimal  Make it more optimal  It will give output  Something or the other"
+        },
+        {
+            "number": "02 ",
+            "title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 784.0,
+            "end": 797.0,
+            "text": " If formula comes  It will give some output  But I have to make that output  More optimal  More accurate  So that its probability  Which is  So that my basic concern  By doing that slowly  We will learn further"
+        },
+        {
+            "number": "02 ",
+            "title": " Understand Artificial \ud83e\udd16Neural Networks\ud83e\uddbe from Basics with Examples",
+            "start": 797.0,
+            "end": 811.0,
+            "text": " How these updates  How these weights  Or how the bias is removed  How is it updated  How hidden layers are used  We will learn one by one  But note this  Because this is the basic building block  Of neural network  Thank you"
+        }
+    ],
+    "text": " Dear students, welcome to GATE SMASHERS In today's video, I am going to explain How does the Artificial Neural Network's architecture works With the real life example, I will explain this whole thing So that you can learn everything from the basics And then reach the advanced level If I talk about the advanced level In today's time, we talk about LLMs LLMs means Large Language Models Like you must have heard about LAMA META has just launched LAMA 3 Or you must have heard about CHAAT GPT Or you must have heard about BIRD All these projects are of a very high level Where all these things we talk about This is the basic block of the Artificial Neural Network Assume that this is the nursery class And today we are talking about the PhD But it is not a direct PhD We have started from the nursery Then we have moved to the first class, second class and so on So first you have to study all these things from the basics Because all these LLMs, models that we talk about In today's time or in the future The AI that we talk about Their start is from here So that's why you have to study all the components From the basics If you study all the things by relating them with examples Then you will understand very well So see Artificial Neural Network ANN What is its purpose How does our human brain work We have tried to mimic it We have tried to make a copy of it The way our brain calculates things Understands things and then generates output In the same way we want to make an Artificial Neural Network So that we give input and we get a relevant output Now the ANN, the Artificial Neural Network What are the basic components in it So here first of all neurons come Multiple layers come Connections, activation function Now the most basic unit here is Neuron or which we also call nodes So these neurons You can understand it basically like this That when is this data storage In a way, what is in it Some values, some data is stored Like I have here 0.2 2 Any value, any number is stored So you can consider a neuron in a way Where some value is stored What are layers, there are multiple layers I will explain things one by one There is an input layer First of all we have an input layer Where we give input Then we have multiple hidden layers Which come in the work of calculations Which calculate multiple things Because at the end, all the mathematics is here Everything we have to represent in values Then we have to do calculations Finally what I have to generate I have to generate an output Connections, now these multiple layers Are connected to each other Every layer, every edge connected Every edge is associated with some weight Some bias value Which is actually a very strong connection Which next value to choose Based on the weight, based on the bias Those things are selected Now you will understand from the example Activation function Now what happens to us The output is coming from non-linear Means values are coming in the output One value came 10, one came 20, one came 1000 Now I have to do this non-linear linearly Means in a way I have to bring it in 0 and 1 Means values are coming separately But I want my output to come only in the range of 0 and 1 Non-linear values should not come So I will use some activation function I will restrict my values in this As an example, I will explain to you Like I take a small example I was teaching my daughter So do you know what was there in it Like numbers in the starting How do we get them in the nursery class Like if we have to read 4 So how do we do 4 First of all, if you have to draw 4 Then straight line Then after that a sleeping line Then after that a straight line So what happens in this way Means the big component It is broken into small components So like I give input here So I gave input What do you do first My neural network has to be trained first When I made the architecture Now I will train it by giving a lot of data Like we train a small child We teach him ABC We teach him 1, 2, 3 So 1, 2, 3 is not like this It breaks the picture and learns That brother has to draw like this Or have to draw B So first straight line Then a loop is made like this Then a loop is made So in this way The teacher explains to them So I also felt that Yes, in this way things can be understood very well Because our brain Our small child is also learning So you understand like this This machine is also training First it is trained by giving data By giving data on multiple parameters It is trained first So here this training is going on That in this way a line is put So these hidden layers In these hidden layers All these values are stored in one way And when we give any value in this way Like if I made something like this Or I made something like this Or if I made it like this with my hand So my daughter understands That actually you are talking about 4 Means it relates all the things The picture that is made in her mind So that means this input Which we trained it first On the basis of that training It stored some values Now when I give a new value When I give a new input So it activates and checks With whom is that value matching So its corresponding output Which is becoming the best probability It shows in the output Means this is a basic flow How does it actually work Like as an example I am taking a small artificial neural network here Where I am not taking many layers I have taken a simple input layer Here I took the output I did not take any hidden layer in between Because I am making a simple single layer Artificial neural network If I take hidden layer in between Then a lot of calculation will have to be done We will do that later on Now we will take a simple example Let's say I have an x1 here And x2 is my input This is my input layer This is my input layer Where I am giving input And let's say I take x1 and x2 Let's take x1 Let's say total hours a person study Total hours a person study And let's take x2 Total hours a person sleep Total hours a person sleep Now I am taking some x1 and x2 values like this And here I have said some weights The weights in the starting This bias value is generated randomly By generating randomly So like I have to generate output here So what function for output We use a simple formula If I have to calculate the value of y Output So how is it generated The value of x1 Whatever value you have taken of x1 Whatever input value you have taken You multiply it by weight 1 And then the value of x2 You multiply it by weight 2 And finally a biased value in it Because you have taken things from your side You have assumed many values from your side So what you do in a biased value Add it And when this value comes So what will happen My output will come But this output is not given here We use activation function So that Because this output will come It is possible that one output is coming 10 One output is coming 20 One output is coming 100 So I want my output To be restricted in 0 and 1 So I can use multiple activation function Like sigmoid function Or relu function Or hyperbolic tangent Many functions are used The most used is your sigmoid So if I use sigmoid function To calculate the value of y I do simple 1 divided by 1 plus e power minus Whatever value comes here So what will it do The output that is coming That output will show in 0 and 1 Like What we did here Initially We took a lot of data Like today Like we talk about LLM The large models that are being created Like Lama Or chat gpt If I talk about gpt 3 So it is trained on petabytes of data A lot of huge amount of data So what I took A lot of study And sleep In this way I took a lot of data From multiple countries That if a person How long does it take And how much does he sleep According to that What values are there Does it pass in the paper Or fails In this way I took a huge amount of data And I trained my system So it is training Initially I took any value of w1 w2 Randomly The system took And took any value of bias And output came I saw the output Because initially I am giving labeled data That how long Let's say that 4 hours Or let's say that he studied for 7 hours He slept for 7 hours And what is the output That it passed And let's say that it took 2 hours Slept for 8 hours And what is the output That it failed 0 means fail And 1 means pass In this way We gave a huge amount of data And we checked the corresponding That is my output matching The output that is coming here Is it matching with my original output If it is not matching Because obviously Matching is not done directly There will be a lot of loss in between There will be a lot of values In which mismatch will also be there So what will happen on the basis of that W1 w2 And the values of bias Will keep on updating Because the more the loss The more the values are fluctuating So we have to Back propagate it again and again What does it have to do It has to make the values more optimal So that my output Is correct So at the initial level By giving a lot of data We trained it And then the values of W1 W2 In this way I did Updated again and again So that my loss Is less So at one time Some values came in this way That W1 came 0.5 At some point of time W2 came minus 0.3 And B1 came 0.1 So if I have some values like this Which I trained Now I give a new data Let's say I gave a new data That a person Studied for 2 hours And slept for 8 hours If I calculate in this way This is new data So on new data Now see how the training works Training is done Now new data So on new data Let's say 2 I gave the value of x2 And W1 What came at this point of time 0.5 came Which is trained As soon as it happens As soon as it happens Things We have been taught since childhood First we learn things roughly Then slowly We keep it fixed Means my W My weight And my bias What happens in actual It keeps getting accurate Time to time So it gets accurate Let's say this value came And what did I do How many hours does he sleep Sleep for 8 hours And corresponding What is my weight Point Minus 0.3 Fine And my B1 What is mine This is my formula How do we Calculate the value of y So let's say If I calculate the value of y0 So I think this Around Minus 1.3 will come And I Obviously told earlier That the output that is coming Using the activation function Bring it to 0 and 1 So if I Put it in this The value of y is Minus 1.3 Put it in this So you solve it Point 2 1 something In some way Point 2 will come some value Means say If 0 is my fail 1 is my pass So what is its probability It is coming towards a little fail Means point 2 means It is coming towards fail There are chances Probability is coming That this can fail Similarly If I take some other value Let's say I take value here 6 And here value Take 7 If you solve this Then value Around Point 7.8 Will come Means more chances of passing So you can put an idea That my weights Are working accurately Although they are not fixed They keep changing These values Keep changing And keep getting accurate So this is how We actually work That Artificial neural network How does it work Now I have not put any hidden layers Only I have given you a basic overview What are the components And how Like our normal brain Learns things Similarly artificial neural network Learning values And getting optimized So here Don't take out the output Our basic concern is Don't take out the output Our basic concern is We have to make the output more optimal Make it more optimal It will give output Something or the other If formula comes It will give some output But I have to make that output More optimal More accurate So that its probability Which is So that my basic concern By doing that slowly We will learn further How these updates How these weights Or how the bias is removed How is it updated How hidden layers are used We will learn one by one But note this Because this is the basic building block Of neural network Thank you"
+}
