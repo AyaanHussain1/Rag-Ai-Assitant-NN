@@ -3,11 +3,8 @@
 A Streamlit app that helps learners find and understand content inside course videos. Upload a course video and it's **auto-transcribed into a searchable index**, or upload transcript JSON files directly. Ask questions in plain English and the assistant points you to the right video with the exact timestamps.
 
 ## Live App
-
-> Add your deployed app link here (e.g. your Streamlit Community Cloud URL).
-
 ```
-Coming soon — paste your deployed URL here.
+https://rag-ai-bot-nn.streamlit.app/
 ```
 
 ## Features
