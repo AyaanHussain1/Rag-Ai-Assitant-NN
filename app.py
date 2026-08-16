@@ -36,16 +36,20 @@ with upload_column:
 
 if st.session_state.show_uploader:
     uploaded_files = st.file_uploader(
-        "Upload transcript JSON files",
-        type=["json"],
+        "Upload a video or transcript JSON files",
+        type=["json", "mp4", "mp3", "mkv", "avi", "mov", "webm", "mpeg", "mpg", "wav", "m4a"],
         accept_multiple_files=True,
         label_visibility="collapsed",
     )
-    st.caption("Upload the JSON transcript files created from your videos. They are embedded for this chat session.")
+    st.caption(
+        "Upload a course video (mp4, mp3, ...) and it will be auto-transcribed into "
+        "JSON, or upload transcript JSON files directly. Everything is embedded for "
+        "this chat session."
+    )
     if uploaded_files:
-        st.success(f"{len(uploaded_files)} JSON file(s) selected")
+        st.success(f"{len(uploaded_files)} file(s) selected")
         if st.button("Prepare uploaded videos"):
-            with st.spinner("Creating a searchable course index..."):
+            with st.spinner("Transcribing & creating a searchable course index..."):
                 try:
                     st.session_state.uploaded_course_index = build_uploaded_course_index(uploaded_files)
                     st.success("Uploaded videos are ready. Your next questions will use their content.")
